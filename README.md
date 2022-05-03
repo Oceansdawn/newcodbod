@@ -7,3 +7,7 @@ banana
 garri
 rice
 beans
+curry
+ginger
+thyme
+chicken glory
