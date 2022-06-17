@@ -1,5 +1,5 @@
 body
-{	background: skyblue;
+{	background-color: skyblue;
 }
 *{
 	box-sizing: border-box;
@@ -33,5 +33,5 @@ input[type=button]
 }
 #del
 {
-	width: 100%
+	width: 100%;
 }
